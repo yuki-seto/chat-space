@@ -19,7 +19,7 @@
 |group_id|integer|
 |user_id|integer|
 
-## chat_group
+## group
 
 |column|type|
 |:--:|:--:|
